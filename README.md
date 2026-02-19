@@ -5,10 +5,26 @@
      /_/   \_\_/\_/  |____/   \____|_|\___/ \__,_|\__,_|  /_/ 
  ----------------------------------------------------------------- 
 
+# AWS Athena Lab – Querying Data in Amazon S3
 
-Hi there! Welcome to AWS Cloud9!
+## Overview
+This lab demonstrates how to use Amazon Athena to query data stored in Amazon S3 using standard SQL. It covers creating external tables, running queries, and managing metadata in the AWS Glue Data Catalog.
 
-To get started, create some files, play with the terminal,
-or visit https://docs.aws.amazon.com/console/cloud9/ for our documentation.
+## Objectives
+- Create an external table in Athena for CSV data stored in S3
+- Execute SQL queries to analyze the dataset
+- Use AWS CLI to interact with Athena
+- Validate activity using AWS CloudTrail
 
-Happy coding!
+## Technologies Used
+- Amazon S3
+- Amazon Athena
+- AWS Glue Data Catalog
+- AWS CLI
+- AWS CloudTrail
+
+## Outcome
+Successfully created and queried external tables in Athena, executed named queries via CLI, and validated audit logs for compliance and tracking.
+
+---
+
