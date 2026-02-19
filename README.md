@@ -1,10 +1,8 @@
-<img width="802" height="558" alt="image" src="https://github.com/user-attachments/assets/be55fd7d-5b89-4f3d-a8eb-1a652a083f85" />
-
-
 # AWS Athena Lab – Querying Data in Amazon S3
 
 ## Overview
 This lab demonstrates how to use Amazon Athena to query data stored in Amazon S3 using standard SQL. It covers creating external tables, running queries, and managing metadata in the AWS Glue Data Catalog.
+<img width="802" height="558" alt="image" src="https://github.com/user-attachments/assets/be55fd7d-5b89-4f3d-a8eb-1a652a083f85" />
 
 ## Objectives
 - Create an external table in Athena for CSV data stored in S3
